@@ -8,7 +8,7 @@ const Header = () => {
 
   return (
     <header className="fixed top-0 left-0 w-full bg-purple-300 text-white p-4 shadow-md z-50">
-      <div className="flex justify-between items-center max-w-screen-lg mx-auto h-18 w-full ">
+      <div className="flex justify-between items-center max-w-screen-lg mx-auto h-10 w-full ">
         <h1 className="text-xl font-bold mx-auto">Mi Portafolio</h1>
 
         <button 
