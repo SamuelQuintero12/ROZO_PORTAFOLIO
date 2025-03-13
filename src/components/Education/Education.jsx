@@ -9,16 +9,16 @@ const Education = () => {
       <h2 className="text-2xl font-bold mb-4">Estudios</h2>
       <div>
         <h3 className="text-xl font-semibold">Institucion Educativa Ciudadela Del SUR</h3>
-      <div className='text-2xl justify-center  text-black-800  items-center'> 
+      <div className='text-2xl justify-center align-bottom text-black-800  items-center'> 
         <p>Graduado de bachiller y tecnico en programación de Software</p>
-        <div className="image-container">
-          <img src={imagen2} alt="Foto personal" className="colegio" />
+        <div className="image-container w-50 ">
         </div>
+        <img src={imagen2} alt="Foto personal"  className="w-[150px] flex self-center justify-self-center" />
         <h3 className="text-xl font-semibold"></h3>
         <div>
         <h3 className="text-xl font-semibold">Institucion Educativa Ciudadela Del SUR</h3>
         <p>En la actualidad estudiandola carrera tecnologo en analisis y desarrollo de Software</p>
-        <div className="image-container">
+        <div className="image-container ">
           <img src={imagen3} alt="Foto personal" className="colegio" />
         </div>
       </div>
