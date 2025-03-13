@@ -1,0 +1,23 @@
+.home {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .home {
+    border-radius: 50%;
+    width: 7rem;
+    height: 7rem;
+    margin-bottom: 1rem;
+  
+  }
+
+  
+  .home h1 {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  .home p {
+    font-size: 1.25rem;
+  }
+  

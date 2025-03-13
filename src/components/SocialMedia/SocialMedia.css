@@ -1,0 +1,24 @@
+.social-media {
+    padding: 2rem;
+  }
+  
+  .social-media h2 {
+    font-size: 1.75rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  .social-media ul {
+    list-style-type: disc;
+    padding-left: 1.5rem;
+  }
+  
+  .social-media a {
+    color: #007BFF;
+    text-decoration: none;
+  }
+  
+  .social-media a:hover {
+    text-decoration: underline;
+  }
+  
