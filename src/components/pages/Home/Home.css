@@ -1,3 +1,5 @@
+@import "tailwindcss";
+
 .home {
     text-align: center;
     padding: 2rem;
@@ -20,5 +22,4 @@
   .home p {
     font-size: 1.25rem;
   }
-  
   

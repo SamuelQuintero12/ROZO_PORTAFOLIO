@@ -19,7 +19,7 @@ const Education = () => {
         <h3 className="text-xl font-semibold">Institucion Educativa Ciudadela Del SUR</h3>
         <p>En la actualidad estudiandola carrera tecnologo en analisis y desarrollo de Software</p>
         <div className="image-container ">
-          <img src={imagen3} alt="Foto personal" className="colegio" />
+        <img src={imagen3} alt="Foto personal"  className="w-[150px] flex self-center justify-self-center" />
         </div>
       </div>
       </div>

@@ -1,3 +1,5 @@
+@import "tailwindcss";
+
 .footer {
     background-color: #333;
     color: white;
@@ -16,3 +18,8 @@ body{
     height: 100%;
 }
 
+@media (max-width: 320px) {
+    .footer{
+        position: fixed;
+    }
+}
